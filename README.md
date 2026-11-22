@@ -102,8 +102,8 @@ Developed and integrated web application features across React, Node.js, Express
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmayeechanda)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/tanmayeechanda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tanmayeechanda](https://www.linkedin.com/in/tanmayee-chanda-579678292/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)]([https://github.com/tanmayeechanda](https://github.com/tanmayeechanda))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tanmayee_chanda@srmap.edu.in)
 
 ---
